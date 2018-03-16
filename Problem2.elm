@@ -2,7 +2,6 @@ module Problem2 exposing (..)
 import Array
 import Functions
 
-
 type Result error value
   = Err error
   | Ok value
